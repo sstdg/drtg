@@ -1,6 +1,0 @@
-vless://9a2b6a26-b69c-4a61-9cd5-e42140a1e927@172.67.132.109:443?type=ws&security=tls&path=%2Feihyws&host=efgc1.errtxct.cf&sni=efgc1.errtxct.cf#01
-vless://d456c25e-55ab-11ed-bdc3-0242ac120002@172.67.181.180:443?type=ws&security=tls&path=%2Falonews&host=14-yrqf.trdueo.ml&sni=14-yrqf.trdueo.ml#02
-vless://9a2b6a26-b69c-4a61-9cd5-e42140a1e927@172.67.139.212:443?type=ws&security=tls&path=%2Feihyws&host=efgc1.errtxct.cf&sni=efgc1.errtxct.cf#03
-vless://9a2b6a26-b69c-4a61-9cd5-e42140a1e927@162.159.44.69:443?type=ws&security=tls&path=%2Feihyws&host=efgc1.errtxct.cf&sni=efgc1.errtxct.cf#04
-vless://d456c25e-55ab-11ed-bdc3-0242ac120002@172.67.197.246:443?type=ws&security=tls&path=%2Falonews&host=14-yrqf.trdueo.ml&sni=14-yrqf.trdueo.ml#05
-vless://d456c25e-55ab-11ed-bdc3-0242ac120002@172.67.201.84:443?type=ws&security=tls&path=%2Falonews&host=14-yrqf.trdueo.ml&sni=14-yrqf.trdueo.ml#06
